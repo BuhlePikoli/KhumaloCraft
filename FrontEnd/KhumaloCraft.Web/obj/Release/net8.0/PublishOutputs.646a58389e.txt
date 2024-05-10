@@ -1,0 +1,15 @@
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\KhumaloCraft.Web.exe
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\appsettings.Development.json
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\appsettings.json
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\appsettings.Production.json
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\KhumaloCraft.Web.dll
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\KhumaloCraft.Web.deps.json
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\KhumaloCraft.Web.runtimeconfig.json
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\KhumaloCraft.Web.pdb
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\IdentityModel.dll
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\Microsoft.IdentityModel.Logging.dll
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\Microsoft.IdentityModel.Tokens.dll
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\Newtonsoft.Json.dll
+C:\Users\buhle.pikoli\Documents\ROSEBANK_COLLEGE\I. MODULES\Cloud Development A - CLDV\Semester 1\Assessments\KhumaloCraft\bin\Publish\System.IdentityModel.Tokens.Jwt.dll

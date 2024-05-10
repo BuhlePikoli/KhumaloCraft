@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\16.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\17.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\18.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\19.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\20.jpeg",
+      "PackagePath": "staticwebassets\\ProductImages\\20.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\21.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\22.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\23.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\24.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buhle.pikoli\\Documents\\ROSEBANK_COLLEGE\\I. MODULES\\Cloud Development A - CLDV\\Semester 1\\Assessments\\KhumaloCraft\\Services\\ProductAPI\\wwwroot\\ProductImages\\9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\9.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProductAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProductAPI.props",
+      "PackagePath": "build\\ProductAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductAPI.props",
+      "PackagePath": "buildMultiTargeting\\ProductAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProductAPI.props",
+      "PackagePath": "buildTransitive\\ProductAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
